@@ -3,10 +3,10 @@ class Dog
 
   attr_accessor :name
 
-def Dog(name)
-  @name = name
-end
+  def Dog(name)
+    @name = name
+  end
 
-def bark
+  def bark
 
-end
+  end
