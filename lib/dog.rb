@@ -8,5 +8,5 @@ def Dog(name)
 end
 
 def bark
-  
-end 
+
+end
